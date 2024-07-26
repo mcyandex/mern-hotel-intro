@@ -8,7 +8,7 @@
 
 # ✨ Beach Resort | Hotel Room Booking System
 
-Hello 👋, I'm <strong>Lee Parker</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
+Hello 👋, I'm <strong>Miguel Cano</strong>. In this repository i will be build a `Complete 'Beach Resort' | Hotel Room Booking System - Web application`. Using `Node.js, Express.js,  MongoDB, React.js, Next.js, Redux.js, Ant Design & Tailwind CSS`. So are you interested at this project let's connect and explore somethings new. Thanks
 
 <!-- contents of projects -->
 
